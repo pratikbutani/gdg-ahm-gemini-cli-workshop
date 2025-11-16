@@ -20,7 +20,7 @@ Received a requirement from GDG Ahmedabad community for "LinkedIn post generator
 I want to create a mockup design for this mvp version, help me create prompt for the same. I will utilise that prompt in Google Stitch. No need to provide image sample.
 ```
 
-3. Create Designs in Google Stitch
+3. Create project in Gemini CLI
 ```
 I would like to implement a post generation in @code.html where Gemini API {api-key} will be used and based on selected event we will generate the linkedIn post. Use gemini-2.5-flash model
 ```
@@ -83,10 +83,40 @@ This workshop demonstrates the practical application of AI tools in modern app d
 ---
 
 ## Contributors
-### Pratik Butani
-[LinkedIn](https://www.linkedin.com/in/pratikbutani) | [Topmate](https://topmate.io/pratikbutani) | [Medium](https://pratikbutani.medium.com/)
 ### Ravi Rupareliya
 [LinkedIn](https://www.linkedin.com/in/ravi-rupareliya) | [Topmate](https://topmate.io/ravi_rupareliya) | [Medium](https://ravirupareliya.medium.com/) | [Personal](https://ravirupareliya.com)
+
+
+### Pratik Butani
+[LinkedIn](https://www.linkedin.com/in/pratikbutani) | [Topmate](https://topmate.io/pratikbutani) | [Medium](https://pratikbutani.medium.com/)
+
+What I developed through AI till now:
+
+- https://done.pratikbutani.com/
+- https://navkar.pratikbutani.com/
+- https://kshma.pratikbutani.com
+- https://digipin.pratikbutani.com/
+- https://drive.google.com/drive/folders/12KlROd8MPfR0dbxGWoDUcG5Z-TBCoBQ_?usp=drive_link + MyGPT
+- https://pratikbutani.github.io/win-or-die/
+
+What are the tools that I’ve used:
+
+- https://manus.im/
+- https://aistudio.google.com/apps
+- https://gemini.google.com
+- https://computerx.ai/
+- https://www.task-master.dev/
+- https://github.com/google-gemini/gemini-cli
+- https://www.granola.ai/
+- https://www.coderabbit.ai/
+- https://grok.com/
+- https://app.napkin.ai/page/create
+- https://claude.ai/
+- https://notebooklm.google/
+- https://gamma.app/
+- https://stanley.stan.store/ - **PAID**
+- https://stitch.withgoogle.com/ + https://discuss.ai.google.dev/t/stitch-prompt-guide/83844
+- https://rows.com/
 
 **Questions?** Feel free to reach out during or after the workshop!
 
